@@ -8,7 +8,7 @@ public class Girl {
     private String cupSize;
 
     private Double money;
-//测试
+//测
     public Integer getId() {
         return id;
     }
